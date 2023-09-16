@@ -8,10 +8,10 @@
         <div class="relative z-30 p-5 text-2xl text-white bg-purple-300 bg-opacity-50 rounded-xl">
           <div class=" lg:columns-3 columns-3xs gap-8 h-[calc(100vh-20rem)]  flex justify-between">
                   <div class="w-full flex flex-col justify-between items-center">
-                      <h4 class="w-full lg:p-20">Broken springs</h4>
-                      <h4 class="w-full lg:p-20">Off track</h4>
-                      <h4 class="w-full lg:p-20">Broken motor</h4>
-                      <h4 class="w-full lg:p-20">Cable snapped off</h4>
+                      <h4 class="w-full lg:p-10">Broken springs</h4>
+                      <h4 class="w-full lg:p-10">Off track</h4>
+                      <h4 class="w-full lg:p-10">Broken motor</h4>
+                      <h4 class="w-full lg:p-10">Cable snapped off</h4>
                   </div>
                   <div class=" w-full flex flex-col justify-center items-center">
                     <button class=" p-5 md:p-30  lg:p-20 border-2 border-black rounded-full text-black   lg:text-7xl md:font-bold">Fix now</button>
