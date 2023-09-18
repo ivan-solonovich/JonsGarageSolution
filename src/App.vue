@@ -6,9 +6,9 @@ import MainPage from "./components/MainPage.vue";
 
 <template>
   <NavBar/>
-  <transition name="fade" mode="out-in">
+
     <router-view></router-view>
-  </transition>
+
 </template>
 
 <style scoped>
