@@ -1,12 +1,11 @@
 <script setup>
 
-import MainContent from "./MainContent.vue";
-
 </script>
 
 <template>
-<MainContent/>
-
+<div>
+  <h1>Off track</h1>
+</div>
 </template>
 
 <style scoped>

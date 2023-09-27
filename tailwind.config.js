@@ -5,7 +5,7 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
     'node_modules/flowbite/**/*.{js,jsx,ts,tsx}',
     'node_modules/flowbite-vue/**/*.{js,jsx,ts,tsx}',
-
+    "./node_modules/vue-tailwind-datepicker/**/*.js",
   ],
   darkMode: 'class',
   theme: {
@@ -13,6 +13,6 @@ module.exports = {
   },
   plugins: [
     require('flowbite/plugin'),
-
+    require("@tailwindcss/forms"),
   ],
 }

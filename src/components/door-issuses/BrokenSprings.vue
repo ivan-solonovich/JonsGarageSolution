@@ -1,12 +1,9 @@
 <script setup>
 
-import MainContent from "./MainContent.vue";
-
 </script>
 
 <template>
-<MainContent/>
-
+<div>Broken springs</div>
 </template>
 
 <style scoped>
