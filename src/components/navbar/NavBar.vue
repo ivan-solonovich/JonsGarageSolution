@@ -29,6 +29,7 @@ export default {
         console.log("Desktop", deskTop)
       }
     } )
+
   },
   methods: {
     isPopUpVisible(){
