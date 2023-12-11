@@ -88,9 +88,9 @@ export default {
           <slot></slot>
         </div>
     </div>
-    <video  autoplay loop muted class="absolute z-10 w-auto min-w-full min-h-full max-w-none bg-opacity-50">
-      <source src="../../matireal/video_2023-09-16_11-40-25.mp4" type="video/mp4" />Your browser does not support the video tag.
-      <source src="../../matireal/video_2023-09-16_11-40-25.webm" type="video/webm" />
+    <video  autoplay loop muted class="absolute z-10 w-auto min-w-full min-h-full max-w-none bg-opacity-50" poster="../../matireal/poster.jpg">
+      <source src="../../matireal/frame1compresed.mp4" type="video/mp4" />Your browser does not support the video tag.
+      <source src="../../matireal/frame1compresed.webm" type="video/webm" />
     </video>
 <!--  Pop Up component    -->
     <AppointModal
