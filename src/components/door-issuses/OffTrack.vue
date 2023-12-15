@@ -25,7 +25,7 @@
       </div>
     </div>
     <div class=" w-full flex flex-direction-column justify-center">
-      <video  autoplay loop muted class="  w-max pb-5  h-auto max-w-none bg-opacity-50" >
+      <video  autoplay loop muted class="w-max pb-5  h-auto max-w-none bg-opacity-50">
         <source src="../../../src/assets/off-track/off_track.mp4" type="video/mp4" />Your browser does not support the video tag.
 
       </video>
