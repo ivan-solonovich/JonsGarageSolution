@@ -27,7 +27,7 @@ export default {
 </script>
 
 <template>
-  <header class="relative flex items-center justify-center h-screen mb-12 overflow-hidden">
+  <header class="relative flex items-center justify-center h-screen mb-12 overflow-hidden h-full">
     <div class="container w-[calc(100%-2rem)] h-[calc(100vh-17rem)]">
         <div class="relative z-30 p-5 text-2xl text-white bg-purple-300 bg-opacity-50 rounded-xl">
           <div class=" lg:columns-3 columns-3xs gap-8 h-[calc(100vh-17rem)]  flex justify-between">

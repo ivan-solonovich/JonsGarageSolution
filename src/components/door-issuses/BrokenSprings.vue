@@ -6,7 +6,7 @@
   <div class="w-100 ">
     <h1 class="mb-4 text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Broken springs</h1>
 <div class="   p-10 m-10">
-
+  <div class="relative z-50 p-5 text-2xl text-white bg-purple-300 bg-opacity-50 rounded-xl">
 
         <p>A garage door spring balances the weight of a garage door and enables easy movement - opening and closing manually or
         automatically. It is made of high-tension steel, which has a limited lifespan and loses its effectiveness with time.
@@ -17,6 +17,7 @@
         <p>As your garage door ages, it becomes less effective. The steel loses resiliency and the door begins to weigh more.
           When springs are brand new, you just need around 10 pounds of force to lift and open the door. But when springs move
           towards the end of their lifespan, owners need to apply more force to lift the door, almost as much as the door’s weight</p>
+  </div>
     </div>
   </div>
 </template>
