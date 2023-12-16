@@ -6,7 +6,7 @@ export default {
   data(){
     return{
 
-      isDesktop: true,
+      isDesktop: false,
       showPopUp: false
     }
   },
