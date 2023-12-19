@@ -1,5 +1,6 @@
 <script>
 import AppointModal from "./appoint-modal/AppointModal.vue";
+import OurPartners from "./our-partners/OurPartners.vue";
 export default {
   data() {
     return {
@@ -7,6 +8,7 @@ export default {
     }
   },
   components:{
+    OurPartners,
     AppointModal
   },
   computed: {
@@ -99,7 +101,7 @@ export default {
 
     />
   </header>
-
+  <OurPartners/>
 </template>
 
 <style scoped>
