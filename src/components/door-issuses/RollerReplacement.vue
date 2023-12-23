@@ -25,11 +25,42 @@
 
     <!--      </div>-->
 
+  </div>
+  <div>
+    <div class="w-100 ">
 
+
+      <!--      <div class=" w-full flex flex-direction-column justify-center">-->
+      <!--        <video  autoplay loop muted class="w-max pb-5  h-auto max-w-none bg-opacity-50">-->
+      <!--          <source src="../../../src/assets/off-track/off_track.mp4" type="video/mp4" />Your browser does not support the video tag.-->
+
+      <!--        </video>-->
+
+      <!--      </div>-->
+
+
+    </div>
+    <div class="w-full  p-2 m-2">
+
+      <div class="image-container ">
+        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Before</h3>
+        <img src="../../../src/assets/roller_replasment/rr_after.jpg" alt="">
+
+        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">After</h3>
+        <img src="../../../src/assets/roller_replasment/rr_before.jpg" alt="">
+
+      </div>
+    </div>
   </div>
 </div>
 </template>
 
 <style scoped>
-
+.image-container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 </style>
