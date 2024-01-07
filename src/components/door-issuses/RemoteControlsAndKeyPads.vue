@@ -27,12 +27,26 @@
     <!--        </video>-->
 
     <!--      </div>-->
+    <div class="w-full  p-2 m-2">
 
+      <div class="image-container ">
+        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Universal remote control</h3>
+        <img src="../../../src/assets/remote-controll/rc-1.jpg" alt="">
+        <img src="../../../src/assets/remote-controll/rc_2.jpg" alt="">
+
+      </div>
+    </div>
 
   </div>
 </div>
 </template>
 
 <style scoped>
-
+.image-container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 </style>

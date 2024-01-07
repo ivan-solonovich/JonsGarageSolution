@@ -4,14 +4,9 @@
 
 <template>
   <div class="gx">
-    <nav class="hi yd bxr cbn ccl" aria-label="Footer">
-      <div class="asw"><a href="#" class="awa awp axs blb">About</a></div>
-      <div class="asw"><a href="#" class="awa awp axs blb">Jobs</a></div>
-      <div class="asw"><a href="#" class="awa awp axs blb">Press</a></div>
-      <div class="asw"><a href="#" class="awa awp axs blb">Partners</a></div>
-    </nav>
+
     <div>
-      <div class="w-full flex flex-wrap justify-center items-center">
+      <div class="w-full flex flex-wrap justify-around items-center">
 
         <h5 class="pr-2 pb-2">
           <RouterLink :to="{name:'broken-springs'}" active-class="none">
@@ -113,7 +108,7 @@
   column-gap: 1rem;
   flex-direction: column;
 
-  background: #c5c5c5;
+  border-top: solid 3px gray;
 }
 .hi{
   margin-left: auto;
@@ -122,7 +117,7 @@
   width: 100%;
   display: flex;
   column-gap: .5rem;
-  justify-content: space-between;
+  justify-content: space-around;
 
 }
 </style>
