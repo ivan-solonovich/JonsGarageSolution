@@ -4,7 +4,8 @@ import OurPartners from "./our-partners/OurPartners.vue";
 export default {
   data() {
     return {
-      showPopUp: false
+      showPopUp: false,
+
     }
   },
   components:{
@@ -65,9 +66,9 @@ export default {
                       </h4>
 
                   </div>
-                  <div class=" w-full flex flex-col justify-center items-center">
-                    <button @click="isPopUpVisible" class="p-5 md:p-30  lg:p-20 border-2 border-black rounded-full text-black   lg:text-7xl md:font-bold">Fix now</button>
-                  </div>
+<!--                  <div id="fix-it" class=" w-full flex flex-col justify-center items-center">-->
+<!--                    <button @click="isPopUpVisible" class="p-5 md:p-30  lg:p-20 border-2 border-black rounded-full text-black   lg:text-7xl md:font-bold">Fix now</button>-->
+<!--                  </div>-->
                   <div class="w-full flex flex-col justify-between pl-2">
 
                     <h3 class="w-full lg:p-20">

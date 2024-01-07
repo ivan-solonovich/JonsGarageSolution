@@ -49,6 +49,9 @@
         <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">After</h3>
         <img src="../../../src/assets/roller_replasment/rr_before.jpg" alt="">
 
+        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Rollers</h3>
+        <img style="padding-bottom: 1rem" src="../../../src/assets/roller_replasment/new_rolls.jpg" alt="">
+        <img style="padding-bottom: 1rem" src="../../../src/assets/roller_replasment/new_rolls_1.jpg" alt="">
       </div>
     </div>
   </div>
