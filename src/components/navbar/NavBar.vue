@@ -109,7 +109,7 @@ export default {
       <a href="#" class="flex items-center">
 
         <img src="../../../public/garage.svg" class="h-8 mr-3" alt="JonsGarageSolution Logo" />
-        <span class="self-center text-2xl sm:text-xl font-semibold whitespace-nowrap dark:text-white">John’s garage door repair</span>
+        <span class="self-center lg:text-2xl sm:text-base font-semibold whitespace-nowrap text-green-800 dark:text-white">John’s garage door repair</span>
 
       </a>
       </RouterLink>
