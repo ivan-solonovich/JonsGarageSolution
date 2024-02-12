@@ -4,7 +4,7 @@
 
 <template>
 
-
+  <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://staging.streamable.com/e/fwjq5f?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
   <div class=" flex justify-center p-5 m-5">
     <figure class="max-w-screen-md mx-auto text-center">

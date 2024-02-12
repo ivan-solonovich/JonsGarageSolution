@@ -149,7 +149,55 @@ export default {
         </ul>
 
     </div>
+    <hr>
+    <div v-if="isDesktop" class="">
 
+     <ul class="flex flex-wrap justify-center">
+       <li class=" p-5">
+         <RouterLink :to="{name:'broken-springs'}" active-class="none">
+           Broken springs
+         </RouterLink>
+       </li>
+
+
+
+       <li class=" p-5">
+         <RouterLink :to="{name:'off-track'}" active-class="none">
+           Off track
+         </RouterLink>
+       </li>
+
+
+       <li class=" p-5">
+         <RouterLink :to="{name:'broken-motor'}" active-class="none">
+           Broken motor
+         </RouterLink>
+       </li>
+
+       <li class="p-5">
+         <RouterLink :to="{name:'cable-snapped-off'}" active-class="none">
+           Cable snapped off
+         </RouterLink>
+       </li>
+       <li class="p-5">
+         <RouterLink :to="{name:'roller-replacement'}" active-class="none">
+           Roller replacement
+         </RouterLink>
+       </li>
+       <li class="p-5">
+         <RouterLink :to="{name:'banded-garage-door-panels'}" active-class="none">
+           Banded garage door panels
+         </RouterLink>
+       </li>
+       <li class="p-5">
+         <RouterLink :to="{name:'remote-controls-and-key-pads'}" active-class="none">
+           Remote controls and key pads
+         </RouterLink>
+       </li>
+     </ul>
+
+
+          </div>
   </nav>
   <!--  Pop Up component    -->
   <AppointModal
