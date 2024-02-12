@@ -6,7 +6,7 @@ export default {
   data() {
     return {
       showPopUp: false,
-
+      isNobile: true,
     }
   },
   components:{
@@ -14,18 +14,17 @@ export default {
     OurPartners,
     AppointModal
   },
-  computed: {
 
-  },
   methods: {
     isPopUpVisible(){
       this.showPopUp = true
-      console.log(this.showPopUp)
+
     },
     closePopUpCart(){
       this.showPopUp = false
       console.log(this.showPopUp)
-    }
+    },
+
   }
 }
 
@@ -121,10 +120,10 @@ export default {
 
     />
   </header>
-  <div class="w-100 sm:block hidden-lg  flex flex-col align-center justify-around rounded-[2.5rem] flex-direction-column p-2 ">
+  <div  class="w-100 sm:block md:hidden   flex flex-col align-center justify-around flex-direction-column p-2 ">
     <div class="m-2 p-2 text-black-800">
-      <p class="text-orange-600">Is your garage door in need of repair?</p>
-      <p>We take great pride in providing a high-quality, low-cost, fast garage door repair service in Los Angeles. Contact us today for a free consult with our technicians.</p>
+      <h2 class="text-orange-600 text-2xl text-center">Is your garage door in need of repair?</h2>
+      <h3 class="text-center text-xl">We take great pride in providing a high-quality, low-cost, fast garage door repair service in Los Angeles. Contact us today for a free consult with our technicians.</h3>
     </div>
 
     <h3 class="w-full flex flex-wrap justify-center m-2 p-2 text-orange-600" >Call us now</h3>
@@ -141,16 +140,18 @@ export default {
 
   </div>
   <features/>
-  <h3 class="w-full text-center m-2 p-2 text-orange-600" >Call us now</h3>
-  <div  class="w-full text-center  p-2">
-    <a class="phone" href="tel:+18183177803">
-      <button  class="bg-green-800 hover:bg-gray-400 rounded-[.5rem] text-black-800  py-2 px-4 rounded inline-flex items-center">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
-        </svg>
-        <span> +1 818 317 78 03</span>
-      </button>
-    </a>
+  <div class="callUs" >
+        <h3 class="w-full text-center m-2 p-2 text-orange-600" >Call us now</h3>
+        <div  class="w-full text-center  p-2">
+          <a class="phone" href="tel:+18183177803">
+            <button  class="bg-green-800 hover:bg-gray-400 rounded-[.5rem] text-black-800  py-2 px-4 rounded inline-flex items-center">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
+              </svg>
+              <span> +1 818 317 78 03</span>
+            </button>
+          </a>
+        </div>
   </div>
   <OurPartners/>
 

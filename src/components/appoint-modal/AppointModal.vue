@@ -34,17 +34,22 @@ export default {
               class="w-full max-w-lg p-3 relative mx-auto my-auto rounded-xl shadow-lg bg-white"
           >
             <div>
-              <a class="phone" href="tel:+375291685012">
-              <div class="text-center p-3 flex-auto justify-center leading-6">                <div class="w-full flex justify-center">
-                  <svg width="64px" height="64px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#9be391"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="14.4" fill="#1a56db" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path opacity="0.4" d="M14.353 2.5C18.054 2.911 20.978 5.831 21.393 9.532" stroke="#130F26" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path opacity="0.4" d="M14.353 6.04297C16.124 6.38697 17.508 7.77197 17.853 9.54297" stroke="#130F26" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0315 12.4724C15.0205 16.4604 15.9254 11.8467 18.4653 14.3848C20.9138 16.8328 22.3222 17.3232 19.2188 20.4247C18.8302 20.737 16.3613 24.4943 7.68447 15.8197C-0.993406 7.144 2.76157 4.67244 3.07394 4.28395C6.18377 1.17385 6.66682 2.58938 9.11539 5.03733C11.6541 7.5765 7.04254 8.48441 11.0315 12.4724Z" stroke="#130F26" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
-                </div>
-                <h2 class="text-2xl font-bold py-4">Click to call Us</h2>
-
+              <h2 class="text-2xl text-center font-bold py-4">Call Us </h2>
+              <div  class="w-full flex justify-center  p-2">
+                <a class="phone" href="tel:+18183177803">
+                  <button  class="bg-green-800 hover:bg-gray-400 rounded-[.5rem] text-black-800  py-2 px-4 rounded inline-flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
+                    </svg>
+                    <span> +1 818 317 78 03</span>
+                  </button>
+                </a>
               </div>
-              </a>
+
+              <h2 class="text-2xl text-center font-bold py-4">Or</h2>
 
               <div class="text-center p-3 flex-auto justify-center leading-6">
-                <a class="messenger-icon-button" href="https://wa.me/%2B375295928003">
+                <a class="messenger-icon-button" href="https://wa.me/%2B18183177803">
                 <div class="w-full flex justify-center">
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                        fill="#40c351"
