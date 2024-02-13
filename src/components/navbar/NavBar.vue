@@ -125,7 +125,7 @@ export default {
         </button>
       </div>
     </div>
-    <hr id="menu-divider" class="pb-2">
+    <hr id="menu-divider" >
     <!--        Desktop menu-->
     <div v-if="isDesktop"  class="w-full flex items-center justify-center md:w-auto p-3 z-30">
 

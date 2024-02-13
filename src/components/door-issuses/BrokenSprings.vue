@@ -1,12 +1,13 @@
 <script setup>
 
+import CallUsNow from "../CallUsNow.vue";
 </script>
 
 <template>
   <div class="w-100 ">
-    <h1 class="mb-4 text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Broken springs</h1>
+    <h1 class="mb-4 text-3xl font-bold  md:text-5xl lg:text-6xl text-center text-green-800">Broken springs</h1>
             <div class="   p-10 m-10">
-              <div class="relative z-50 p-5 text-2xl text-white bg-purple-300 bg-opacity-50 rounded-xl">
+              <div class="relative z-50 p-5 text-2xl  rounded-xl">
 
                     <p>A garage door spring balances the weight of a garage door and enables easy movement - opening and closing manually or
                     automatically. It is made of high-tension steel, which has a limited lifespan and loses its effectiveness with time.
@@ -22,16 +23,17 @@
     <div class="w-full  p-2 m-2">
 
       <div class="image-container ">
-        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Before</h3>
+        <h3 class="mb-4  text-xl font-bold  md:text-2xl lg:text-3xl text-center text-green-800">Before</h3>
         <img src="../../../src/assets/broken_springs/bs_before_1.jpg" alt="">
-        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">After</h3>
+        <h3 class="mb-4  text-xl font-bold  md:text-2xl lg:text-3xl text-center text-green-800">After</h3>
         <img src="../../../src/assets/broken_springs/bs_after_1.jpg" alt="">
-        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Before</h3>
+        <h3 class="mb-4  text-xl font-bold  md:text-2xl lg:text-3xl text-center text-green-800">Before</h3>
         <img src="../../../src/assets/broken_springs/bs_before_2.jpg" alt="">
-        <h3 class="mb-4  text-3xl font-extrabold  md:text-5xl lg:text-6xl text-center text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">After</h3>
+        <h3 class="mb-4  text-xl font-bold  md:text-2xl lg:text-3xl text-center text-green-800">After</h3>
         <img src="../../../src/assets/broken_springs/bf_after_2.jpg" alt="">
       </div>
     </div>
+    <CallUsNow/>
   </div>
 </template>
 
