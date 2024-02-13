@@ -11,6 +11,7 @@ import CallUsNow from "../CallUsNow.vue";
       <img class="partner_img" src="../../assets/partners/p_1.jpg" alt="">
       <img class="partner_img" src="../../assets/partners/p_2.jpg" alt="">
       <img class="partner_img" src="../../assets/partners/p_3.jpg" alt="">
+      <img class="partner_img" src="../../assets/partners/images.png" alt="">
     </div>
   </div>
   <h3 class="mb-4 mt-4 text-2xl text-center">Professional Garage Door Repair</h3>
