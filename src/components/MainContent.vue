@@ -112,8 +112,8 @@ export default {
         </div>
     </div>
     <video  autoplay loop muted class="absolute z-10 w-auto min-w-full min-h-full max-w-none bg-opacity-50" >
-      <source src="../../matireal/frame1compresed.mp4" type="video/mp4" />Your browser does not support the video tag.
-      <source src="../../matireal/frame1compresed.webm" type="video/webm" />
+      <source src="https://staging.streamable.com/0dluc3" type="video/mp4" />Your browser does not support the video tag.
+
     </video>
 <!--  Pop Up component    -->
     <AppointModal
