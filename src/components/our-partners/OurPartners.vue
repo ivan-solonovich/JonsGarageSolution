@@ -5,7 +5,7 @@ import CallUsNow from "../CallUsNow.vue";
 
 <template>
   <h3 class="mb-4 mt-4 text-2xl text-center">Our Partners</h3>
-  <div class="w-100 flex flex-direction-column columns-1 justify-center">
+  <div class="w-100 flex flex-direction-column columns-1 justify-center bg-gray-50">
 
     <div class="w-100 p-10 m-10 flex flex-wrap justify-center gap-8">
       <img class="partner_img" src="../../assets/partners/p_1.jpg" alt="">

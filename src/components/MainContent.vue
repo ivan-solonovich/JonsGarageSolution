@@ -3,6 +3,7 @@ import AppointModal from "./appoint-modal/AppointModal.vue";
 import OurPartners from "./our-partners/OurPartners.vue";
 import Features from "./features/features.vue";
 import CallUsNow from "./CallUsNow.vue";
+import ReplaceParts from "./ReplaceParts.vue";
 export default {
   data() {
     return {
@@ -11,6 +12,7 @@ export default {
     }
   },
   components:{
+    ReplaceParts,
     CallUsNow,
     Features,
     OurPartners,
@@ -143,6 +145,11 @@ export default {
 
   </div>
   <features/>
+
+    <ReplaceParts/>
+
+
+
   <CallUsNow/>
   <OurPartners/>
 
