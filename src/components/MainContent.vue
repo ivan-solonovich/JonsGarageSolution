@@ -124,7 +124,7 @@ export default {
   </header>
   <div  class="w-100 sm:block md:hidden   flex flex-col align-center justify-around flex-direction-column p-2 ">
     <div class="m-2 p-2 text-black-800">
-      <h2 class="text-orange-600 text-2xl text-center">Is your garage door in need of repair?</h2>
+      <h2 class="text-orange-800 font-extrabold text-3xl text-center">Is your garage door in need of repair?</h2>
       <h3 class="text-center text-xl">We take great pride in providing a high-quality, low-cost, fast garage door repair service in Los Angeles. Contact us today for a free consult with our technicians.</h3>
     </div>
 
