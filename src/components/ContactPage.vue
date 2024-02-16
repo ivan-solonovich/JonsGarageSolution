@@ -21,7 +21,7 @@ export default {
 <template>
   <div class="w-full ">
     <div class="max-w-screen-lg mx-auto p-5">
-      <div class="grid grid-cols-1 md:grid-cols-12 border">
+      <div class="grid grid-cols-1  border">
         <div class="bg-green-800 md:col-span-4 p-10 text-white">
           <p class="mt-4 text-sm leading-7 font-regular uppercase">
             Contact
@@ -50,81 +50,28 @@ Zip Code/Postal code:03875</span>
             <span class="text-sm"> +1 818 317 78 03</span>
           </div>
 
-
+          <div class="callUs" >
+            <h1 class="w-full text-center text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-orange-600" >Free estimate. <span class="text-white">Call us Now.</span></h1>
+            <div  class="w-full text-center  p-2">
+              <a class="phone" href="tel:+18183177803">
+                <button  class="bg-orange-600 hover:bg-gray-400 rounded-[.5rem] text-white pr-2  py-2 px-4 rounded inline-flex items-center">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
+                  </svg>
+                  <span class="text-white"> +1 818 317 78 03</span>
+                </button>
+              </a>
+            </div>
+          </div>
         </div>
-        <form class="md:col-span-8 p-10">
-          <div class="flex flex-wrap -mx-3 mb-6">
-            <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
-              <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
-                     for="grid-first-name">
-                First Name
-              </label>
-              <input
-                  class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
-                  id="grid-first-name" type="text" placeholder="Jane">
-              <p class="text-red-500 text-xs italic">Please fill out this field.</p>
-            </div>
-            <div class="w-full md:w-1/2 px-3">
-              <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
-                     for="grid-last-name">
-                Last Name
-              </label>
-              <input
-                  class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
-                  id="grid-last-name" type="text" placeholder="Doe">
-            </div>
-          </div>
-          <div class="flex flex-wrap -mx-3 mb-6">
-            <div class="w-full px-3">
-              <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
-                     for="grid-password">
-                Email Address
-              </label>
-              <input
-                  class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
-                  id="grid-email" type="email" placeholder="********@*****.**">
-            </div>
-          </div>
-          <div class="flex flex-wrap -mx-3 mb-6">
-            <div class="w-full px-3">
-            <label for="phone-input"  class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2">Phone number:</label>
-              <input type="text" v-model="phone" id="phone-input" aria-describedby="helper-text-explanation" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full ps-10 p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-456-7890" required>
-            </div>
-          </div>
-          <div class="flex flex-wrap -mx-3 mb-6">
-            <div class="w-full px-3">
-              <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
-                     for="grid-password">
-                Your Message
-              </label>
-              <textarea rows="10"
-                        class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"></textarea>
-            </div>
-            <div class="flex justify-between w-full px-3">
-              <div class="md:flex md:items-center">
-                <label class="block text-gray-500 font-bold">
-                  <input class="mr-2 leading-tight" type="checkbox">
-                  <span class="text-sm">
-                                Send me your newsletter!
-                            </span>
-                </label>
-              </div>
-              <button
-                  class="shadow bg-orange-600 hover:bg-indigo-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-6 rounded"
-                  type="submit">
-                Send Message
-              </button>
-            </div>
 
-          </div>
-
-        </form>
 
       </div>
+
     </div>
 
 
-<CallUsNow/>
+
 
 
 <!--   Old section-->

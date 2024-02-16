@@ -69,7 +69,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.867 19.125h.008v.008h-.008v-.008Z" />
           </svg>
 
-          <p class="text-base text-slate-700 sm:text-lg">Slats</p>
+          <p class="text-base text-slate-700 sm:text-lg">Springs</p>
         </li>
       </ul>
       <ul class="mt-3 flex flex-col space-y-2">
@@ -95,7 +95,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.867 19.125h.008v.008h-.008v-.008Z" />
           </svg>
 
-          <p class="text-base text-slate-700 sm:text-lg">Photo eyes</p>
+          <p class="text-base text-slate-700 sm:text-lg">Sensors</p>
         </li>
         <li class="flex ">
           <svg  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 stroke-orange-600 pr-2">
@@ -103,7 +103,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.867 19.125h.008v.008h-.008v-.008Z" />
           </svg>
 
-          <p class="text-base text-slate-700 sm:text-lg">Trolleys</p>
+          <p class="text-base text-slate-700 sm:text-lg">Rail tracks</p>
         </li>
         <li class="flex ">
           <svg  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 stroke-orange-600 pr-2">
@@ -119,7 +119,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.867 19.125h.008v.008h-.008v-.008Z" />
           </svg>
 
-          <p class="text-base text-slate-700 sm:text-lg">Boards</p>
+          <p class="text-base text-slate-700 sm:text-lg">Garage door opener</p>
         </li>
         <li class="flex ">
           <svg  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 stroke-orange-600 pr-2">
@@ -132,6 +132,9 @@
       </ul>
     </div>
   </div>
+  </div>
+  <div class="w-100 bg-gray-50 flex justify-center">
+    <img src="../../src/assets/shemes/How-Long-Do-Garage-Door-Openers-Last1.jpg">
   </div>
 </template>
 

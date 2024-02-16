@@ -4,6 +4,7 @@ import OurPartners from "./our-partners/OurPartners.vue";
 import Features from "./features/features.vue";
 import CallUsNow from "./CallUsNow.vue";
 import ReplaceParts from "./ReplaceParts.vue";
+import Supports from "./supports/Supports.vue";
 export default {
   data() {
     return {
@@ -12,6 +13,7 @@ export default {
     }
   },
   components:{
+    Supports,
     ReplaceParts,
     CallUsNow,
     Features,
@@ -146,13 +148,10 @@ export default {
   </div>
   <features/>
 
-    <ReplaceParts/>
-
-
-
+  <ReplaceParts/>
   <CallUsNow/>
   <OurPartners/>
-
+  <Supports/>
 </template>
 
 <style scoped>

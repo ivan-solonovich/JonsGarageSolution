@@ -4,7 +4,7 @@
 
 <template>
   <div class="callUs" >
-    <h3 class="w-full text-center m-2 p-2 text-orange-600" >Call us to speak to a member of our team. We are always happy to help.</h3>
+    <h3 class="w-full text-center m-2 p-2 text-orange-600" >Free estimate. Call us Now.</h3>
     <div  class="w-full text-center  p-2">
       <a class="phone" href="tel:+18183177803">
         <button  class="bg-green-800 hover:bg-gray-400 rounded-[.5rem] text-white pr-2  py-2 px-4 rounded inline-flex items-center">
