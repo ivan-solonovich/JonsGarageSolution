@@ -15,7 +15,7 @@
         <RouterLink  :to="{name:'banded-garage-door-panels'}" active-class="none">
         <a class="p-8 max-w-md border border-gray-500 rounded-2xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
            href="#">
-          <img src="../../assets/banded_door/collage.png" class="shadow rounded-lg overflow-hidden border" >
+          <img src="../../assets/banded_door/collage.png" class="shadow rounded-lg overflow-hidden border" alt="Banded garage door panels collage">
           <div class="mt-8">
             <h4 class="font-bold text-xl">Banded garage door panels</h4>
             <div class="mt-5">
@@ -29,7 +29,7 @@
         <RouterLink :to="{name:'broken-springs'}" active-class="none">
           <a class="p-8 max-w-md border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
              href="#">
-            <img src="../../assets/broken_springs/bs_collage.png" class="shadow rounded-lg overflow-hidden border" >
+            <img src="../../assets/broken_springs/bs_collage.png" class="shadow rounded-lg overflow-hidden border" alt="Broken springs collage">
             <div class="mt-8">
               <h4 class="font-bold text-xl"> Broken springs</h4>
               <div class="mt-5">
@@ -42,7 +42,7 @@
       <RouterLink :to="{name:'off-track'}" active-class="none">
         <a class="p-8 max-w-md  border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
            href="#">
-          <img   src="../../assets/off-track/of_trak_transform.png" class="shadow rounded-lg overflow-hidden border " >
+          <img   src="../../assets/off-track/of_trak_transform.png" class="shadow rounded-lg overflow-hidden border " alt="Off track collage">
           <div class="mt-8">
             <h4 class="font-bold text-xl">  Off track</h4>
             <div class="mt-5">
@@ -55,7 +55,7 @@
       <RouterLink :to="{name:'broken-motor'}" active-class="none">
         <a class="p-8 max-w-md  border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
            href="#">
-          <img   src="../../assets/broken_motor/bm_collage.png" class="shadow rounded-lg overflow-hidden border " >
+          <img   src="../../assets/broken_motor/bm_collage.png" class="shadow rounded-lg overflow-hidden border " alt="Broken motor collage">
           <div class="mt-8">
             <h4 class="font-bold text-xl">  Broken motor</h4>
             <div class="mt-5">
@@ -68,7 +68,7 @@
       <RouterLink :to="{name:'cable-snapped-off'}" active-class="none">
         <a class="p-8 max-w-md  border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
            href="#">
-          <img   src="../../assets/cabel/cabel.png" class="shadow rounded-lg overflow-hidden border " >
+          <img   src="../../assets/cabel/cabel.png" class="shadow rounded-lg overflow-hidden border " alt="Cable snapped off">
           <div class="mt-8">
             <h4 class="font-bold text-xl">Cable snapped off</h4>
             <div class="mt-5">
@@ -80,7 +80,7 @@
       <RouterLink :to="{name:'roller-replacement'}" active-class="none">
         <a class="p-8 max-w-md  border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
            href="#">
-          <img   src="../../assets/roller_replasment/r_collage.png" class="shadow rounded-lg overflow-hidden border " >
+          <img   src="../../assets/roller_replasment/r_collage.png" class="shadow rounded-lg overflow-hidden border " alt="Roller replacement collage">
           <div class="mt-8">
             <h4 class="font-bold text-xl">Roller replacement</h4>
             <div class="mt-5">
@@ -92,7 +92,7 @@
       <RouterLink :to="{name:'remote-controls-and-key-pads'}" active-class="none">
         <a class="p-8 max-w-md  border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
            href="#">
-          <img   src="../../assets/remote-controll/rc_collage.png" class="shadow rounded-lg overflow-hidden border " >
+          <img   src="../../assets/remote-controll/rc_collage.png" class="shadow rounded-lg overflow-hidden border " alt=" Remote controls and key pads">
           <div class="mt-8">
             <h4 class="font-bold text-xl"> Remote controls and key pads</h4>
             <div class="mt-5">
