@@ -14,15 +14,12 @@ import CallUsNow from "../CallUsNow.vue";
 
     </div>
   </div>
-  <h3 class="mb-4 mt-4 text-2xl lg:text-4xl text-green-800 text-center">Professional Garage Door Repair</h3>
-  <div class="w-full flex flex-wrap justify-center text-center m-2 p-2 ">
-    <h4>Trouble Opening or Closing, Blocked Sensors, Dying Opener, Unusual Noises, Uneven Door, Slow Opening, Transmitter Problems, Keypad Not Synced and other problems</h4>
-  </div>
+
 
 
 
   <div class="w-full  container mx-auto p-10">
-    <h3 class="text-2xl lg:text-4xl">Do your garage doors exhibit any of the following:</h3>
+    <h2 class="text-center text-2xl lg:text-4xl">Do your garage doors exhibit any of the following:</h2>
     <ul class="points list-disc" style="margin-bottom: 15px; margin-top: 15px;">
       <li style="margin-left: 20px;">Grinding/rubbing Noises: If your garage door makes strange sounds when opening or closing, the doors could have warped (if wooden) or twisted if electrically operated.</li>
       <li style="margin-left: 20px;">Door jammed: Wooden doors will swell in damp, cold, or wet conditions preventing smooth opening and closing.</li>
