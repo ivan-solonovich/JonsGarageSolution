@@ -9,6 +9,11 @@ module.exports = {
   ],
   darkMode: 'class',
   theme: {
+    colors: {
+      primary: '#142A21',
+      secondary: '#E7E2C5',
+
+    },
     extend: {},
   },
   plugins: [

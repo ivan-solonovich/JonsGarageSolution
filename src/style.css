@@ -3,6 +3,8 @@
   line-height: 1.5;
   font-weight: 400;
 
+
+
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -14,9 +16,17 @@
   -webkit-text-size-adjust: 100%;
 }
 
+
+
+
+.quicksand {
+              font-family: "Quicksand", sans-serif;
+              font-optical-sizing: auto;
+              font-style: normal;
+            }
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #142A21;
   text-decoration: inherit;
 }
 a:hover {

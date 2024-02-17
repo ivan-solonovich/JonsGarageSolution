@@ -5,7 +5,7 @@ import CallUsNow from "../CallUsNow.vue";
 
 <template>
 
-      <section class="bg-green-800 py-20">
+      <section class="bg-primary py-10">
         <div class="container mx-auto px-4">
           <div class="flex flex-col md:flex-row items-center justify-between">
             <div class="md:w-1/2 mb-8 md:mb-0">

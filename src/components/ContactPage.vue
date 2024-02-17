@@ -22,7 +22,7 @@ export default {
   <div class="w-full ">
     <div class="max-w-screen-lg mx-auto p-5">
       <div class="grid grid-cols-1  border">
-        <div class="bg-green-800 md:col-span-4 p-10 text-white">
+        <div class="bg-primary md:col-span-4 p-10 text-white">
           <p class="mt-4 text-sm leading-7 font-regular uppercase">
             Contact
           </p>
@@ -52,7 +52,7 @@ Zip Code/Postal code:03875</span>
 
           <div class="callUs" >
             <h1 class="w-full text-center text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-orange-600" >Free estimate. <span class="text-white">Call us Now.</span></h1>
-            <div  class="w-full text-center  p-2">
+            <div  class="w-full text-center mt-4 p-2">
               <a class="phone" href="tel:+18183177803">
                 <button  class="bg-orange-600 hover:bg-gray-400 rounded-[.5rem] text-white pr-2  py-2 px-4 rounded inline-flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">

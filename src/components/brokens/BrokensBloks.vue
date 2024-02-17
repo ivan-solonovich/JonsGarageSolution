@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h3 class="mt-8 font-bold text-3xl sm:text-3xl md:text-6xl text-green-800 text-center">Professional Garage Door Repair</h3>
+  <h3 class="mt-8 font-bold text-3xl sm:text-3xl md:text-6xl text-primary text-center">Professional Garage Door Repair</h3>
   <div class="w-full flex flex-wrap justify-center text-center m-2 p-2 ">
     <h4>Trouble Opening or Closing, Blocked Sensors, Dying Opener, Unusual Noises, Uneven Door, Slow Opening, Transmitter Problems, Keypad Not Synced and other problems</h4>
   </div>
@@ -19,7 +19,7 @@
           <div class="mt-8">
             <h4 class="font-bold text-xl">Banded garage door panels</h4>
             <div class="mt-5">
-              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
             </div>
           </div>
         </a>

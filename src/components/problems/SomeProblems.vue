@@ -4,7 +4,7 @@
 
 <template>
   <div class="w-full  container mx-auto p-10">
-    <h2 class="pb-4 text-3xl sm:text-3xl md:text-6xl text-green-800">Do your garage doors exhibit any of the following:</h2>
+    <h2 class="pb-4 text-3xl sm:text-3xl md:text-6xl text-primary">Do your garage doors exhibit any of the following:</h2>
     <ul class="points list-disc" style="margin-bottom: 15px; margin-top: 15px;">
       <li style="margin-left: 20px;">Grinding/rubbing Noises: If your garage door makes strange sounds when opening or closing, the doors could have warped (if wooden) or twisted if electrically operated.</li>
       <li style="margin-left: 20px;">Door jammed: Wooden doors will swell in damp, cold, or wet conditions preventing smooth opening and closing.</li>

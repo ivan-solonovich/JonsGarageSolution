@@ -6,7 +6,7 @@
   <div class="w-100  flex flex-col justify-center pt-10 pb-10 text-center">
 
     <div>
-      <h1 class="font-bold text-3xl sm:text-3xl md:text-6xl text-green-800">Replace Old & Bad Parts</h1>
+      <h1 class="font-bold text-3xl sm:text-3xl md:text-6xl text-primary">Replace Old & Bad Parts</h1>
     </div>
     <p class=" pt-10 pb-10 leading-normal text-muted-foreground sm:text-lg sm:leading-7">
       We offer a variety of parts that you may need.
