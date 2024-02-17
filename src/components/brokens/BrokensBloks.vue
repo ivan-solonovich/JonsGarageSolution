@@ -33,7 +33,7 @@
             <div class="mt-8">
               <h4 class="font-bold text-xl"> Broken springs</h4>
               <div class="mt-5">
-                <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+                <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
               </div>
             </div>
           </a>
@@ -46,7 +46,7 @@
           <div class="mt-8">
             <h4 class="font-bold text-xl">  Off track</h4>
             <div class="mt-5">
-              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
             </div>
           </div>
         </a>
@@ -59,7 +59,7 @@
           <div class="mt-8">
             <h4 class="font-bold text-xl">  Broken motor</h4>
             <div class="mt-5">
-              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
             </div>
           </div>
         </a>
@@ -72,7 +72,7 @@
           <div class="mt-8">
             <h4 class="font-bold text-xl">Cable snapped off</h4>
             <div class="mt-5">
-              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
             </div>
           </div>
         </a>
@@ -84,7 +84,7 @@
           <div class="mt-8">
             <h4 class="font-bold text-xl">Roller replacement</h4>
             <div class="mt-5">
-              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
             </div>
           </div>
         </a>
@@ -96,7 +96,7 @@
           <div class="mt-8">
             <h4 class="font-bold text-xl"> Remote controls and key pads</h4>
             <div class="mt-5">
-              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-gray-800 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
+              <button type="button" class="inline-flex items-center rounded-md border border-transparent bg-primary px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-gray-900">Learn more</button>
             </div>
           </div>
         </a>
