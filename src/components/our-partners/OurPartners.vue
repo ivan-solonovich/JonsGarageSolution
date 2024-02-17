@@ -33,7 +33,7 @@ import CallUsNow from "../CallUsNow.vue";
 <!--    <li>Replace garage door opener motor</li>-->
 <!--  </ul>-->
 <!--  </div>-->
- <CallUsNow/>
+
 </template>
 
 <style scoped>
