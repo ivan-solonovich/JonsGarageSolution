@@ -137,7 +137,7 @@
     <img src="../../src/assets/shemes/How-Long-Do-Garage-Door-Openers-Last1.jpg">
   </div>
   <div class="w-100 p-10 flex justify-center">
-    <h2 class="uppercase">warranty for parts and warranty for installation from 1 year</h2>
+    <h2 class="uppercase text-2xl">warranty for parts and warranty for installation from 1 year</h2>
   </div>
 </template>
 

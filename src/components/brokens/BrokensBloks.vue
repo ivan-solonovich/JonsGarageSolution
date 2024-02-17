@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h3 class="mb-4 mt-4 text-2xl lg:text-4xl text-green-800 text-center">Professional Garage Door Repair</h3>
+  <h3 class="mt-8 font-bold text-3xl sm:text-3xl md:text-6xl text-green-800 text-center">Professional Garage Door Repair</h3>
   <div class="w-full flex flex-wrap justify-center text-center m-2 p-2 ">
     <h4>Trouble Opening or Closing, Blocked Sensors, Dying Opener, Unusual Noises, Uneven Door, Slow Opening, Transmitter Problems, Keypad Not Synced and other problems</h4>
   </div>

@@ -6,6 +6,7 @@ import CallUsNow from "./CallUsNow.vue";
 import ReplaceParts from "./ReplaceParts.vue";
 import Supports from "./supports/Supports.vue";
 import BrokensBloks from "./brokens/BrokensBloks.vue";
+import SomeProblems from "./problems/SomeProblems.vue";
 export default {
   data() {
     return {
@@ -14,6 +15,7 @@ export default {
     }
   },
   components:{
+    SomeProblems,
     BrokensBloks,
     Supports,
     ReplaceParts,
@@ -153,8 +155,11 @@ export default {
   <BrokensBloks/>
   <ReplaceParts/>
   <CallUsNow/>
+  <SomeProblems/>
+  <CallUsNow/>
   <OurPartners/>
   <Supports/>
+  <CallUsNow/>
 </template>
 
 <style scoped>
