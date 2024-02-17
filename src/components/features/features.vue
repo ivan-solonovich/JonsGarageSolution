@@ -3,11 +3,11 @@
 </script>
 
 <template>
-  <section id="features" class="container mx-auto px-4 space-y-6 bg-slate-50 py-8 dark:bg-transparent md:py-12 lg:py-20">
+  <section id="features" class="container mx-auto px-4 space-y-6 bg-slate-50 py-8  md:py-12 lg:py-10">
 
     <div class="mx-auto flex max-w-[58rem] flex-col items-center space-y-4 text-center">
 
-      <h2 class="font-bold text-3xl leading-[1.1] sm:text-3xl md:text-6xl">Why Choose Us</h2>
+      <h2 class="font-bold text-3xl text-primary leading-[1.1] sm:text-3xl md:text-6xl">Why Choose Us</h2>
 
       <p class="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
 

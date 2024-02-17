@@ -10,6 +10,11 @@ import MainContent from "./MainContent.vue";
 
 </template>
 
-<style scoped>
-
+<style >
+main-content{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
 </style>

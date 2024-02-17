@@ -3,16 +3,16 @@
 </script>
 
 <template>
-  <div class="w-100  flex flex-col justify-center pt-10 pb-10 text-center">
+  <div class="w-100 box-border flex flex-col justify-center pt-10 pb-10 text-center">
 
-    <div>
+    <div >
       <h1 class="font-bold text-3xl sm:text-3xl md:text-6xl text-primary">Replace Old & Bad Parts</h1>
     </div>
     <p class=" pt-10 pb-10 leading-normal text-muted-foreground sm:text-lg sm:leading-7">
       We offer a variety of parts that you may need.
     </p>
 
-    <div class=" w-full flex justify-around">
+    <div class=" w-100 flex justify-around">
     <div class=" grid grid-cols-2  gap-12">
       <ul class="mt-3 flex flex-col space-y-2">
         <li class="flex ">
@@ -134,7 +134,7 @@
   </div>
   </div>
   <div class="w-100 bg-gray-50 flex justify-center">
-    <img src="../../src/assets/shemes/How-Long-Do-Garage-Door-Openers-Last1.jpg">
+    <img class="" src="../../src/assets/shemes/How-Long-Do-Garage-Door-Openers-Last1.jpg">
   </div>
   <div class="w-100 p-10 flex justify-center">
     <h2 class="uppercase text-2xl">warranty for parts and warranty for installation from 1 year</h2>
