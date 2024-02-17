@@ -1,7 +1,7 @@
 <script setup>
 
 import NavBar from "./components/navbar/NavBar.vue";
-import MainPage from "./components/MainPage.vue";
+
 import FooterMain from "./components/FooterMain.vue";
 </script>
 

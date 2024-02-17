@@ -10,8 +10,7 @@ import SomeProblems from "./problems/SomeProblems.vue";
 export default {
   data() {
     return {
-      showPopUp: false,
-      isNobile: true,
+
     }
   },
   components:{
