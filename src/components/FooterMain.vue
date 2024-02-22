@@ -23,7 +23,7 @@
               </button>
             </a>
           </div>
-          <p class="text-center pt-4">Los Angeles, Late Avenue Zip Code/Postal code: 03875</p>
+          <p class="text-center pt-4">Los Angeles, 15135 Victory Blvd un12 zip 91411 </p>
         </div>
 
       </div>
