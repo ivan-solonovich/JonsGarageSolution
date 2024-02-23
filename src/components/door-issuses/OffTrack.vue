@@ -34,14 +34,14 @@ import CallUsNow from "../CallUsNow.vue";
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/off-track/before_3.jpg" alt="Off track"
+          <img src="../../assets/off-track/before_3.avif" alt="Off track"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/off-track/after_3.jpg" alt="Off track"
+          <img src="../../assets/off-track/after_3.avif" alt="Off track"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>
@@ -49,14 +49,14 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/off-track/before_2.jpg" alt="Off track"
+          <img src="../../assets/off-track/before_2.avif" alt="Off track"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/off-track/after_2.jpg" alt="Off track"
+          <img src="../../assets/off-track/after_2.avif" alt="Off track"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>
@@ -64,14 +64,14 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/off-track/Before_1.jpg" alt="Off track"
+          <img src="../../assets/off-track/Before_1.avif" alt="Off track"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/off-track/after_1.jpg" alt="Off track"
+          <img src="../../assets/off-track/after_1.avif" alt="Off track"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>

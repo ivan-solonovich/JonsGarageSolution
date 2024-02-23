@@ -17,7 +17,7 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="md:w-1/2">
-          <img src="../../assets/broken_motor/bm_collage.png" alt="Broken motor"
+          <img src="../../assets/broken_motor/bm_collage.avif" alt="Broken motor"
                class="w-full rounded-lg shadow-lg">
         </div>
       </div>
@@ -30,7 +30,7 @@ import CallUsNow from "../CallUsNow.vue";
       <h2 class="text-3xl font-bold text-gray-800 mb-8">Our Works - Broken motor</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/broken_motor/bm_before.jpg" alt="Banded garage door panels"
+          <img src="../../assets/broken_motor/bm_before.avif" alt="Banded garage door panels"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
@@ -39,7 +39,7 @@ import CallUsNow from "../CallUsNow.vue";
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/broken_motor/bm_after.jpg" alt="Banded garage door panels"
+          <img src="../../assets/broken_motor/bm_after.avif" alt="Banded garage door panels"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>

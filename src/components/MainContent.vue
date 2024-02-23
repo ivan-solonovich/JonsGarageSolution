@@ -66,7 +66,7 @@ export default {
         </div>
     </div>
 
-    <video  autoplay playsinline loop muted class="absolute box-border z-10 w-auto min-w-full min-h-full max-w-none bg-opacity-50" poster="../../matireal/poster.jpg">
+    <video  autoplay playsinline loop muted class="absolute box-border z-10 w-auto min-w-full min-h-full max-w-none bg-opacity-50" poster="../../matireal/poster.avif">
       <source src="../../matireal/frame1compresed.mp4" type="video/mp4">Your browser does not support the video tag.
       <source src="../../matireal/frame1compresed.webm" type="video/webm">Your browser does not support the video tag.
     </video>

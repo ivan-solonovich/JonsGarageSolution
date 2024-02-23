@@ -21,7 +21,7 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="md:w-1/2">
-          <img src="../../assets/broken_springs/bs_collage.png" alt="banded door"
+          <img src="../../assets/broken_springs/bs_collage.avif" alt="banded door"
                class="w-full rounded-lg shadow-lg">
         </div>
       </div>
@@ -32,7 +32,7 @@ import CallUsNow from "../CallUsNow.vue";
       <h2 class="text-3xl font-bold text-gray-800 mb-8">Our Works - Broken springs</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/broken_springs/bs_before_1.jpg" alt="Broken springs"
+          <img src="../../assets/broken_springs/bs_before_1.avif" alt="Broken springs"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
@@ -42,7 +42,7 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/broken_springs/bs_after_1.jpg" alt="Broken springs"
+          <img src="../../assets/broken_springs/bs_after_1.avif" alt="Broken springs"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>
@@ -51,14 +51,14 @@ import CallUsNow from "../CallUsNow.vue";
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/broken_springs/bs_before_2.jpg" alt="Broken springs"
+          <img src="../../assets/broken_springs/bs_before_2.avif" alt="Broken springs"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/broken_springs/bf_after_2.jpg" alt="Broken springs"
+          <img src="../../assets/broken_springs/bf_after_2.avif" alt="Broken springs"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>

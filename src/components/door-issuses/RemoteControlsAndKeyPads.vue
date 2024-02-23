@@ -20,7 +20,7 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="md:w-1/2">
-          <img src="../../assets/remote-controll/rc_collage.png" alt="banded door"
+          <img src="../../assets/remote-controll/rc_collage.avif" alt="banded door"
                class="w-full rounded-lg shadow-lg">
         </div>
       </div>

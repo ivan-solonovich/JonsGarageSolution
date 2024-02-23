@@ -15,7 +15,7 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="md:w-1/2">
-          <img src="../../assets/roller_replasment/r_collage.png" alt="Roller replacement"
+          <img src="../../assets/roller_replasment/r_collage.avif" alt="Roller replacement"
                class="w-full rounded-lg shadow-lg">
         </div>
       </div>
@@ -26,7 +26,7 @@ import CallUsNow from "../CallUsNow.vue";
       <h2 class="text-3xl font-bold text-gray-800 mb-8">Our Works - Roller replacement</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/roller_replasment/rr_after.jpg" alt="Roller replacement"
+          <img src="../../assets/roller_replasment/rr_after.avif" alt="Roller replacement"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
@@ -35,7 +35,7 @@ import CallUsNow from "../CallUsNow.vue";
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/roller_replasment/rr_before.jpg" alt="Roller replacement"
+          <img src="../../assets/roller_replasment/rr_before.avif" alt="Roller replacement"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>

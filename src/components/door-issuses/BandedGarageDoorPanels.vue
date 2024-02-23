@@ -21,7 +21,7 @@ import CallUsNow from "../CallUsNow.vue";
             </div>
 
             <div class="md:w-1/2">
-              <img src="../../assets/banded_door/collage.png" alt="banded door"
+              <img src="../../assets/banded_door/collage.avif" alt="banded door"
                    class="w-full rounded-lg shadow-lg">
             </div>
           </div>
@@ -34,7 +34,7 @@ import CallUsNow from "../CallUsNow.vue";
       <h2 class="text-3xl font-bold text-gray-800 mb-8">Our Works - Banded garage door panels</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/banded_door/before_1.jpg" alt="Banded garage door panels"
+          <img src="../../assets/banded_door/Before_1.avif" alt="Banded garage door panels"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Before</h3>
@@ -43,7 +43,7 @@ import CallUsNow from "../CallUsNow.vue";
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/banded_door/after.jpg" alt="Banded garage door panels"
+          <img src="../../assets/banded_door/after.avif" alt="Banded garage door panels"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">After</h3>
@@ -52,7 +52,7 @@ import CallUsNow from "../CallUsNow.vue";
           </div>
         </div>
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
-          <img src="../../assets/banded_door/after_1.jpg" alt="Coffee"
+          <img src="../../assets/banded_door/after_1.avif" alt="Coffee"
                class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-2">Banded garage door panels</h3>
