@@ -85,7 +85,8 @@ export default {
       <RouterLink :to="{name:'home'}" active-class="none" class="navigate">
       <a href="#" class="h-14 flex items-center bg-gray-50 m-2 p-2">
         <div class="logo-main bg-gray-50">
-          <img class="m-1.5" src="../../assets/ljgo/green_logo.avif" alt="Jon's Garage Door  Logo">
+
+          <img class="m-1.5 w-24" src="../../assets/ljgo/logo.avif" alt="Jon's Garage Door  Logo">
         </div>
 <!--        <img src="../../../public/johns-line.png" class="h-24 mr-8" alt="JonsGarageSolution Logo" />-->
 <!--        <span class="self-center lg:text-2xl sm:text-sm font-semibold whitespace-nowrap text-black dark:text-white">John’s garage door repair</span>-->
