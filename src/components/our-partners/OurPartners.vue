@@ -8,9 +8,9 @@ import CallUsNow from "../CallUsNow.vue";
   <div class="  w-100 flex flex-direction-column columns-1 justify-center bg-gray-50">
 
     <div class="w-100 p-10 m-10 flex flex-wrap justify-center align-center gap-8">
-      <img class="partner_img" src="../../assets/partners/p_1.jpg" alt="">
-      <img class="partner_img" src="../../assets/partners/p_2.jpg" alt="">
-      <img class="partner_img" src="../../assets/partners/p_3.jpg" alt="">
+      <img class="partner_img" src="../../assets/partners/p_1.avif" alt="">
+      <img class="partner_img" src="../../assets/partners/p_2.avif" alt="">
+      <img class="partner_img" src="../../assets/partners/p_3.avif" alt="">
 
     </div>
   </div>
