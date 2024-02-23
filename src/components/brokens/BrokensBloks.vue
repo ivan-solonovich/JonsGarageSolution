@@ -29,7 +29,7 @@
         <RouterLink :to="{name:'broken-springs'}" active-class="none">
           <a class="p-8 max-w-md border border-gray-500 rounded-xl hover:shadow-xl hover:shadow-indigo-300 flex flex-col items-start"
              href="#">
-            <img src="../../assets/broken_springs/bs_collage.png" class="shadow rounded-lg overflow-hidden border" alt="Broken springs collage">
+            <img src="../../assets/broken_springs/bs_collage.avif" class="shadow rounded-lg overflow-hidden border" alt="Broken springs collage">
             <div class="mt-8">
               <h4 class="font-bold text-xl"> Broken springs</h4>
               <div class="mt-5">
