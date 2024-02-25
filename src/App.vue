@@ -17,7 +17,7 @@ import FooterMain from "./components/FooterMain.vue";
 
 <style>
 #wrapper{
-  width: 99%;
+  width: 98%;
 }
 #navbar{
   padding: 0;
