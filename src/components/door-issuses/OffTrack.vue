@@ -23,7 +23,7 @@ import CallUsNow from "../CallUsNow.vue";
         </div>
 
         <div class="md:w-1/2">
-          <div class="w-full rounded-lg shadow-lg" style="position:relative; width:100%; height:0px; padding-bottom:54.717%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://staging.streamable.com/e/aek9qw?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+          <div class="w-full rounded-lg shadow-lg" style="position:relative; width:100%; height:0; padding-bottom:54.717%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://staging.streamable.com/e/aek9qw?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
         </div>
       </div>
     </div>
@@ -84,11 +84,5 @@ import CallUsNow from "../CallUsNow.vue";
 </template>
 
 <style scoped>
-.image-container{
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
+
 </style>

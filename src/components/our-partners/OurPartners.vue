@@ -1,6 +1,5 @@
 <script setup>
 
-import CallUsNow from "../CallUsNow.vue";
 </script>
 
 <template>
@@ -16,23 +15,6 @@ import CallUsNow from "../CallUsNow.vue";
   </div>
 
 
-
-
-
-<!--  <div class="w-full flex col-auto justify-center">-->
-<!--  <ul class="m-2 p-10 list-disc">-->
-<!--    <li>Broken or bent rollers</li>-->
-<!--    <li>Bent track, misalignment or rusted track</li>-->
-<!--    <li>Preventative Maintenance</li>-->
-<!--    <li>Others services</li>-->
-<!--  </ul>-->
-<!--  <ul class="m-2 p-10 list-disc">-->
-<!--    <li>Replace garage door opener chain</li>-->
-<!--    <li>Replace garage door spring</li>-->
-<!--    <li>Replace garage door section</li>-->
-<!--    <li>Replace garage door opener motor</li>-->
-<!--  </ul>-->
-<!--  </div>-->
 
 </template>
 

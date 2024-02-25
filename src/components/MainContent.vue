@@ -40,7 +40,7 @@ export default {
                       <div class="w-100   flex flex-col align-center justify-around rounded-[2.5rem] flex-direction-column p-2 ">
                         <div class="m-2 p-2 text-black-800">
                           <p id="main-message" class="text-4xl lg:text-6xl font-bold  text-shades-white  text-orange-600 pb-4">Is your garage door in need of repair?</p>
-                          <p>We take great pride in providing a high-quality, low-cost, fast garage door repair service in Los Angeles. Contact us today for a free consult with our technicians.</p>
+                          <p>We take great pride in providing a high-quality, low-cost, fast garage door repair service in <span class="font-bold text-orange-600">Los Angeles</span>. Contact us today for a free consult with our technicians.</p>
                         </div>
 
                         <h3 class="w-100 flex flex-wrap m-2 p-2 text-orange-600" >Call us now</h3>
