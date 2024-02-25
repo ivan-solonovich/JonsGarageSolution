@@ -88,8 +88,7 @@ export default {
 
           <img class="m-1.5 w-24" src="../../assets/ljgo/logo.avif" alt="Jon's Garage Door  Logo">
         </div>
-<!--        <img src="../../../public/johns-line.png" class="h-24 mr-8" alt="JonsGarageSolution Logo" />-->
-<!--        <span class="self-center lg:text-2xl sm:text-sm font-semibold whitespace-nowrap text-black dark:text-white">John’s garage door repair</span>-->
+
         <div class="w-100 bg-gray-50 grid grid-cols-1 h-12 p-1 m-8 ml-2.5">
           <div style="font-family: Buda, serif" class="text-primary uppercase font-extrabold buda-light">John’s garage </div>
           <div style="font-family: Quicksand, sans-serif" class="text-primary uppercase font-extrabold quicksand">door repair</div>

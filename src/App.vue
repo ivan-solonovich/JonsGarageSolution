@@ -6,13 +6,19 @@ import FooterMain from "./components/FooterMain.vue";
 </script>
 
 <template>
-  <NavBar id="navbar"/>
-
-    <router-view></router-view>
-  <FooterMain/>
+  <div class="w-100 flex justify-center">
+    <div id="wrapper">
+    <NavBar id="navbar"/>
+      <router-view></router-view>
+    <FooterMain/>
+    </div>
+  </div>
 </template>
 
 <style>
+#wrapper{
+  width: 99%;
+}
 #navbar{
   padding: 0;
   margin: 0;
