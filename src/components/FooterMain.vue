@@ -23,7 +23,7 @@
               </button>
             </a>
           </div>
-          <p class="text-center pt-4">Los Angeles, 15135 Victory Blvd zip 91411 </p>
+          <p class="text-center pt-4">Los Angeles, 15135 Victory Blvd zip 91411 <span>License # PA023961</span></p>
         </div>
 
       </div>
