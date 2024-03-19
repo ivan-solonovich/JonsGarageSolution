@@ -1,5 +1,9 @@
 <script setup>
 
+  // Helper function to delay opening a URL until a gtag event is sent.
+  // Call it in response to an action that should navigate to a URL.
+
+
 </script>
 
 <template>
